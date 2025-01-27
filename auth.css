@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.b1 {
+        .ac{
+            max-width: 150px;
+            max-height: 150px;
+            left: 35%;
+            top: 38%;
+        }
+        img{    
+            width: 100%;
+            height: 100vh !important;
+        }
+        h1{
+            bottom: 70px;   
+            left: 10%;
+            max-width: 560px;
+            font-size: 50px !important;
+        }
+        h3{
+            top: 50px;
+            left: 10%;
+        }
+}
+i{
+    top: 35%;
+    left: 20px;
+    color: rgb(65, 65, 65);
+}
+.fa-eye-slash{
+    left: 92%;
+    cursor: pointer;
+}
+span{
+    top: 73.6%;
+    background-color: white !important;
+    left: 73.25%;
+}
